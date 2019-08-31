@@ -22,6 +22,8 @@ h1 {
   color: white;
   margin: 0 auto;
   font-size: 0.75em;
+  width: 90%;
+  height: 12rem;
 }
 
 .btn {
